@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
+<rect width="1200" height="1200" fill="#ffffff"/>
+<rect width="1200" height="310" fill="#eef3f8"/><rect width="1200" height="16" fill="#2d5f96"/>
+<text x="80" y="106" font-size="26" font-weight="600" fill="#4f6b91" letter-spacing="3">HEARING BUDGET LEDGER · 噪声暴露剂量与听力预算</text>
+<text x="80" y="190" font-size="60" font-weight="700" fill="#22344e">听力预算台</text>
+<text x="80" y="246" font-size="27" fill="#5a6d84">允许时长 = 8 小时 × 2^(（基准 − 声级）÷ 交换率) · 剂量 = Σ 时长 ÷ 允许时长</text>
+<text x="80" y="452" font-size="76" font-weight="700" fill="#22344e">81.45%</text>
+<text x="80" y="502" font-size="30" fill="#5a6d84">用掉所选口径的上限 · 判定：接近上限</text>
+<text x="80" y="548" font-size="24" fill="#7b8ca0">口径：交换率 3 dB · 上限基准 85 dB(A) · 追加声级 90 dB(A)</text>
+<rect x="740" y="376" width="380" height="158" rx="14" fill="#f4f8fd" stroke="#d9e3ee"/>
+<text x="770" y="422" font-size="24" font-weight="600" fill="#61738a">等效 8 小时声级</text>
+<text x="770" y="480" font-size="46" font-weight="700" fill="#2d5f96">84.11 dB(A)</text>
+<text x="770" y="514" font-size="22" fill="#7b8ca0">相当于基准下连续 6.52 小时（上限 8）</text>
+<text x="80" y="600" font-size="30" font-weight="700" fill="#22344e">剂量贡献（3 段合计 200 分钟）</text>
+<text x="80" y="657" font-size="26" font-weight="600" fill="#39485c">耳机听歌</text><rect x="330" y="636" width="520" height="26" rx="6" fill="#e8eef7"/><rect x="330" y="636" width="520.00" height="26" rx="6" fill="#c9821f"/><text x="1120" y="657" font-size="24" font-weight="600" fill="#39485c" text-anchor="end">占总剂量 92.08%</text><text x="80" y="705" font-size="26" font-weight="600" fill="#39485c">地铁车厢</text><rect x="330" y="684" width="520" height="26" rx="6" fill="#e8eef7"/><rect x="330" y="684" width="36.11" height="26" rx="6" fill="#4a7cb5"/><text x="1120" y="705" font-size="24" font-weight="600" fill="#39485c" text-anchor="end">占总剂量 6.39%</text><text x="80" y="753" font-size="26" font-weight="600" fill="#39485c">餐厅午饭</text><rect x="330" y="732" width="520" height="26" rx="6" fill="#e8eef7"/><rect x="330" y="732" width="8.60" height="26" rx="6" fill="#4a7cb5"/><text x="1120" y="753" font-size="24" font-weight="600" fill="#39485c" text-anchor="end">占总剂量 1.52%</text>
+<text x="80" y="880" font-size="30" font-weight="700" fill="#22344e">口径对照 / 下一步</text>
+<text x="80" y="926" font-size="25" fill="#4d6076">· 等能量口径 84.09 dB(A)，与剂量口径差 −0.02 dB（3 dB 交换率不等于严格等能量）</text>
+<text x="80" y="966" font-size="25" fill="#4d6076">· 同一份暴露换 5 dB 口径：53.07%，接近上限</text>
+<text x="80" y="1006" font-size="25" fill="#4d6076">· 最大的一段是「耳机听歌」，占总剂量 92.08%；先动它效果最大</text>
+<text x="80" y="1046" font-size="25" fill="#4d6076">· 按 90 dB(A) 还能听 28 分钟才用满 100%；3 dB 口径下「降 3 dB」与「时长减半」是同一件事</text>
+<text x="80" y="1086" font-size="25" fill="#4d6076">· 判定分组只是显示分组；不做医学诊断、不测量、不联网</text>
+<rect y="1150" width="1200" height="50" fill="#eef3f8"/>
+<text x="80" y="1182" font-size="21" fill="#7b8ca0">听力预算台 V1.0.0 · 数字来自同一次计算 · 默认样例与 5 个内置场景均为虚构示例，声级由用户自填</text>
+</svg>
